@@ -1,7 +1,7 @@
 {
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": PH5C,
 			"gpsEcoMode": false,
 			"symbol": "[",
 			"overlay": "/",
@@ -12,7 +12,7 @@
 			"profileLabel": ""
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": PH5C,
 			"gpsEcoMode": false,
 			"symbol": ">",
 			"overlay": "/",
@@ -23,7 +23,7 @@
 			"profileLabel": ""
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": PH5C,
 			"gpsEcoMode": false,
 			"symbol": "b",
 			"overlay": "/",
